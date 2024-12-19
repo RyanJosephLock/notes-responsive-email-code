@@ -11,3 +11,7 @@ A list of resource recommendations by Brian Graves.
 
 #### https://github.com/briangraves/ResponsiveEmailPatterns ⭐
 A repo of useful patterns, including layout, nav, list, media and accordian code examples.
+
+## Code Guides
+
+### https://templates.mailchimp.com/development/
