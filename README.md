@@ -9,5 +9,5 @@ A list of resource recommendations by Brian Graves.
 
 ## Code Examples
 
-#### https://github.com/briangraves/ResponsiveEmailPatterns
+#### https://github.com/briangraves/ResponsiveEmailPatterns ⭐
 A repo of useful patterns, including layout, nav, list, media and accordian code examples.
