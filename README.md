@@ -9,6 +9,7 @@ A list of resource recommendations by Brian Graves.
 #### https://github.com/JayOram/awesome-opensource-email
 Jay Oram list of email resources - very comprehensive.
 
+<hr>
 
 ## Code Examples
 
