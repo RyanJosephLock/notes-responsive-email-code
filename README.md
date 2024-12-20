@@ -1,6 +1,8 @@
 # Responsive Email Code Notes
 Resources useful in developing reliable responsive email code
 
+<hr>
+
 ## Recommended Resource Lists
 
 #### https://responsiveemailresources.com/
@@ -34,9 +36,7 @@ Templates.
 #### https://github.com/internations/antwort
 Single, three cols and two cols responsive layouts.
 
-
-
-
+<hr>
 
 ## Code Guides - Articles
 
@@ -55,27 +55,67 @@ A comprehensive guide to supported css by email client.
 #### https://www.caniemail.com/
 A comprehensive guide to supported css/html by email client, including usage statistics.
 
+<hr>
 
 ## Dev & IDEs
 
 #### https://parcel.io/ ⭐
 Coding platform and IDE recommended for email development.
 
+<hr>
 
 ## Tools
 
 #### https://emailpreview.io/
 Quickly preview email html code in the browser.
 
-### https://www.emailonacid.com/email-editor/
+#### https://www.emailonacid.com/email-editor/
 Email editor with quick email client preview testing (quicker troubleshooting cycle).
 
 #### https://litmus.com/scope/
 A tool to rip clean, usable code from recieved Gmail emails. 
 
+#### https://htmlemail.io/inline/
+Automatic CSS Inliner. Develop normally, then allow the tool to add styles into inline.
+
+#### https://codsen.com/os/email-comb/play
+Remove unused CSS styles and comments.
+
+#### https://betterplaceholder.com/
+Placeholder image generator.
+
+#### https://customer.io/tools/mailto-link-generator
+Mailto link generator.
+
+#### https://customer.io/tools/calendar-link-generator
+Calendar link generator.
+
+#### https://buttons.cm/
+Bulletproof buttons.
+
+#### https://backgrounds.cm/
+Bulletproof backgrounds.
+
+#### https://lists.cm/?ref=emailresourc.es
+Bulletproof lists.
+
+#### https://www.emailonacid.com/resource/character-converter/
+Special chatacter converter.
+
+<hr>
+
+## Frameworks
+
+#### https://mjml.io/
+Compiling responsive email library.
+
+#### https://maizzle.com/
+Tailwind CSS and advanced email optimisations.
+
+
+<hr>
 
 ## Communites & Forums
 
 #### https://litmus.com/community
 An active community of email specialist devs.
-
